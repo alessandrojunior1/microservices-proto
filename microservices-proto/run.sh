@@ -2,7 +2,7 @@
 GITHUB_USERNAME=alessandrojunior1
 GITHUB_EMAIL=alessandjr0@gmail.com
 
-SERVICE_NAME=order
+SERVICE_NAME=payment
 RELEASE_VERSION=v1.2.3
 
 go install google.golang.org/protobuf/cmd/protoc-gen-go@latest
